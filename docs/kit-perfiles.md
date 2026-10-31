@@ -53,6 +53,10 @@ Usa **exactamente los mismos datos en todos los sitios**. Que coincidan letra po
 
 ## Reseñas
 
+- **Enlace para pedir reseñas:** https://g.page/r/CSfwz9s4cD_ZEBM/review
+- **Perfil de Empresa de Google:** https://g.page/r/CSfwz9s4cD_ZEBM
+
+
 Las reseñas reales en tu Perfil de Empresa de Google son de lo que más pesa, en Google y en las IA. Al terminar cada proyecto, pide al cliente que deje una con su nombre. Nunca uses reseñas falsas: Google las detecta y penaliza el perfil.
 
 ## Cuando esté todo dado de alta
