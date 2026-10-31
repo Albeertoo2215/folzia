@@ -11,7 +11,7 @@ Usa **exactamente los mismos datos en todos los sitios**. Que coincidan letra po
 - **Zona:** Rascafría (Madrid). Trabajo en remoto en toda España.
 - **Responsable:** Alberto García Marcos
 - **LinkedIn:** https://www.linkedin.com/in/alberto-garc%C3%ADa-marcos-4b40a0398
-- **Logo:** `docs/imagenes-perfiles/folzia-logo.png` (cuadrado) y `docs/imagenes-perfiles/folzia-portada.png` (portada)
+- **Logo:** `docs/imagenes-perfiles/folzia-logo.jpg` (cuadrado) y `docs/imagenes-perfiles/folzia-portada.png` (portada)
 - **Foto:** `docs/imagenes-perfiles/alberto-garcia-marcos.jpg`
 
 ## Descripciones
